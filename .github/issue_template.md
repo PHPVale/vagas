@@ -1,23 +1,18 @@
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, POSTAR SOMENTE VAGAS PARA PHP NO VALE DO PARAÍBA!
 
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo de título de issue: `[São José dos Campos] PHP Sênior na NOME DA EMPRESA`
 ==================================================
 -->
 
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+Projeto bazinga em Laravel, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, São José dos Campos - Jd. Satélite
 
 ## Benefícios
 
@@ -38,12 +33,12 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 5 anos de experiência com PHP
+- 2 anos de experiência com Laravel.
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- Conhecimentos em Bootstrap
+- Conhecimentos em LAravel Mix
 
 **Diferenciais:**
 - projetos opensource
@@ -58,7 +53,7 @@ Aqui na Corporação ACME somos líderes em...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga PHP Sênior
 
 ## Labels
 
