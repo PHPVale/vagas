@@ -38,7 +38,7 @@ Remoto ou Escritório, São José dos Campos - Jd. Satélite
 
 **Desejáveis:**
 - Conhecimentos em Bootstrap
-- Conhecimentos em LAravel Mix
+- Conhecimentos em Laravel Mix
 
 **Diferenciais:**
 - projetos opensource
