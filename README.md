@@ -1,20 +1,20 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="assets/images/php-vale-logo.png" width="400" alt="PHPVale">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
+<p align="center">:microscope: Espaço para divulgação de vagas para PHP.</p>
 
-# Vagas (Somente vagas de Front-End)
+# Vagas (Somente vagas de PHP)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Vagas disponíveis em https://github.com/PHPVale/vagas/issues
 
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
-Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
+Exemplo: `[São José dos Campos] PHP Developer na [NOME DA EMPRESA]`
 
 Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
@@ -26,11 +26,11 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
-Todas as oportunidades serão automaticamente compartilhadas no [@frontendbrvagas](https://twitter.com/frontendbrvagas).
+Todas as oportunidades serão automaticamente compartilhadas no [@phpvale](https://twitter.com/phpvale).
 
 ### Outros repositórios de vagas
 
-Como esse repositório é específico para a postagem de vagas de **front-end**,
+Como esse repositório é específico para a postagem de vagas de **PHP**,
 mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
 da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
