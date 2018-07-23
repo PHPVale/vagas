@@ -2,7 +2,7 @@
 <img src="assets/images/php-vale-logo.png" width="400" alt="PHPVale">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para PHP.</p>
+<p align="center">:microscope: Espaço para divulgação de vagas para desenvolvedores PHP.</p>
 
 # Vagas (Somente vagas de PHP)
 
@@ -36,6 +36,7 @@ da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
+- [Vagas para desenvolvedores Front-end](https://github.com/frontendbr/vagas)
 - [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
@@ -44,19 +45,6 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
 
-
- 
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
-
-## Repositórios da Front-End Brasil
-
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Doe um livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Front-End Week](https://github.com/frontendbr/frontendweek)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
