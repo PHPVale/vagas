@@ -12,7 +12,7 @@ Projeto bazinga em Laravel, etc.
 
 ## Local
 
-Remoto ou Escritório, São José dos Campos - Jd. Satélite
+Remoto ou Escritório, São José dos Campos - Jd. Satélite.
 
 ## Benefícios
 
@@ -34,14 +34,14 @@ Remoto ou Escritório, São José dos Campos - Jd. Satélite
 
 **Obrigatórios:**
 - 5 anos de experiência com PHP
-- 2 anos de experiência com Laravel.
+- 2 anos de experiência com Laravel
 
 **Desejáveis:**
 - Conhecimentos em Bootstrap
 - Conhecimentos em Laravel Mix
 
 **Diferenciais:**
-- projetos opensource
+- projetos open source
 
 ## Contratação
 
